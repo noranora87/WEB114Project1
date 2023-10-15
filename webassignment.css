@@ -1,0 +1,9 @@
+/*Nora Jaafar, 10/15/2023*/
+
+body {background-color: #FFFFFF;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(white, grey);
+}
+
+h2 {text-shadow: 1.5px 1.5px 1.5px grey;}
